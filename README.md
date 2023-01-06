@@ -1,6 +1,6 @@
 # Data-Cleaning
 
-Excel Data Cleaning: Using a past US presidents dataset which is raw and unused
+Excel Data Cleaning: Using a past US presidents dataset which is raw and uncleaned
 1. Firstly remove duplicates from the data set
 2. remove and standardizing cells using proper() and trim()
 3. ensuring numeric data for the mesaured fields
